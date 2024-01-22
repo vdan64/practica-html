@@ -1,0 +1,13 @@
+ h1 {
+    color: aqua;
+    font-size: 5em;
+} 
+
+/* p {
+    color: red;
+    font-size:  3em;
+} */
+
+p, li{
+    color: green;
+}
